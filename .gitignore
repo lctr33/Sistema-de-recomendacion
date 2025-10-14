@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data: ignore raw and heavy processed datasets and model artifacts
+/sistema_recomendacion/data/raw/
+/sistema_recomendacion/data/processed/*.npz
+/sistema_recomendacion/data/processed/*.joblib
+/sistema_recomendacion/data/processed/*.pkl
+/sistema_recomendacion/data/processed/*.csv
+
+# If you need to keep a small example dataset, add it explicitly and remove the ignore line above
+
+# Model / checkpoints
+/models/
+
+# Python packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
