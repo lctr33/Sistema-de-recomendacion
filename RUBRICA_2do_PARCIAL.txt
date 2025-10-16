@@ -1,0 +1,387 @@
+RÚBRICA EVALUACIÓN 2DO PARCIAL
+ETAPA 1: ANÁLISIS DEL PROBLEMA: 40%
+CRITERIOS
+
+Análisis del
+problema y Preprocesamiento
+
+9
+
+8
+
+7
+
+6
+
+A.) Los siguientes criterios se cumplen
+Cuando mucho un Cuando mucho
+Ningún criterio de Ningún criterio de
+(demostrado en Notebook):
+criterio de A.) no dos criterios de A.)
+A.) se cumple,
+A.) se cumple,
+1) El corpus ha sido limpiado
+se cumple, pero no se cumple, pero
+pero B.) y C.) se
+pero B.) o C.) se
+2) Los textos han sido organizados para la tarea
+B.) y C.) se
+B.) y C.) se
+cumplen,
+cumple,
+3) Se han separado los textos en Train-Dev y
+cumplen,
+cumplen,
+o bien
+o bien
+Test
+o bien
+o bien
+B.) Se ha formalizado esta etapa en papel
+(documento)
+C.) Se hizo una presentación de esta parte
+
+Representación
+de los
+Datos
+
+Fecha de entrega: Jueves 16 de octubre
+
+10
+
+A.) Los siguientes criterios se cumplen
+(demostrado en Notebook):
+1) Se cuenta con el método de representación
+operando.
+2) Los textos han sido representados.
+3) Se han validado las representaciones (se ha
+comprobado que son confiables, mediante de
+algún experimento control).
+B.) Se ha formalizado esta etapa en papel
+(documento)
+
+5
+
+Nada se
+cumple
+
+No se cumplen B.) No se cumplen B.) No se cumplen B.)
+Al menos un
+o C.) pero todos
+ni C.) pero todos
+ni C.) pero al
+criterio de A) o B.)
+los criterios de A.) los criterios de A.) menos un criterio
+o C.) se cumple
+sí se cumplen
+sí se cumplen
+de A.) sí se cumple
+Cuando mucho un Cuando mucho
+Ningún criterio de Ningún criterio de
+criterio de A.) no dos criterios de A.)
+A.) se cumple,
+A.) se cumple,
+se cumple, pero no se cumple, pero
+pero B.) y C.) se
+pero B.) o C.) se
+B.) y C.) se
+B.) y C.) se
+cumplen,
+cumple,
+cumplen,
+cumplen,
+o bien
+o bien
+o bien
+o bien
+
+Nada se
+cumple
+
+No se cumplen B.) No se cumplen B.) No se cumplen B.)
+Al menos un
+o C.) pero todos
+ni C.) pero todos
+ni C.) pero al
+criterio de A) o B.)
+los criterios de A.) los criterios de A.) menos un criterio
+o C.) se cumple
+sí se cumplen
+sí se cumplen
+de A.) sí se cumple
+
+C.) Se hizo una presentación de esta parte
+
+Diseño
+del
+baseline
+
+A.) Los siguientes criterios se cumplen
+(demostrado en Notebook):
+1) Se entrenó el modelo base con los datos de
+entrenamiento.
+2) Se corrieron las pruebas (Test) con el
+modelo base.
+3) Se obtuvieron las métricas con el modelo
+base.
+B.) Se ha formalizado esta etapa en papel
+(documento)
+C.) Se hizo una presentación de esta parte
+
+Cuando mucho un Cuando mucho
+Ningún criterio de Ningún criterio de
+criterio de A.) no dos criterios de A.)
+A.) se cumple,
+A.) se cumple,
+se cumple, pero no se cumple, pero
+pero B.) y C.) se
+pero B.) o C.) se
+B.) y C.) se
+B.) y C.) se
+cumplen,
+cumple,
+cumplen,
+cumplen,
+o bien
+o bien
+o bien
+o bien
+
+No se cumplen B.) No se cumplen B.) No se cumplen B.)
+Al menos un
+o C.) pero todos
+ni C.) pero todos
+ni C.) pero al
+criterio de A) o B.)
+los criterios de A.) los criterios de A.) menos un criterio
+o C.) se cumple
+sí se cumplen
+sí se cumplen
+de A.) sí se cumple
+
+ETAPA 2: RESOLUCIÓN DEL PROB. (1a APROXIMACIÓN): 30%
+CRITERIOS
+
+10
+A.) Los siguientes criterios se cumplen
+(demostrado en Notebook):
+1) Se entrenó al modelo alternativo al baseline.
+2) Se probó el modelo alternativo (Test).
+3) Se calcularon las métricas de evaluación.
+
+Primer ensayo de
+resolución
+B.) Se ha formalizado esta etapa en papel
+(documento)
+
+C.) Se hizo una presentación de esta parte
+
+Nada se
+cumple
+
+Fecha de entrega: Martes 28 de octubre
+9
+
+8
+
+7
+
+6
+
+Cuando mucho un Cuando mucho
+Ningún criterio de Ningún criterio de
+criterio de A.) no dos criterios de A.)
+A.) se cumple,
+A.) se cumple,
+se cumple, pero no se cumple, pero
+pero B.) y C.) se
+pero B.) o C.) se
+B.) y C.) se
+B.) y C.) se
+cumplen,
+cumple,
+cumplen,
+cumplen,
+o bien
+o bien
+o bien
+o bien
+
+No se cumplen B.) No se cumplen B.) No se cumplen B.)
+Al menos un
+o C.) pero todos
+ni C.) pero todos
+ni C.) pero al
+criterio de A) o B.)
+los criterios de A.) los criterios de A.) menos un criterio
+o C.) se cumple
+sí se cumplen
+sí se cumplen
+de A.) sí se cumple
+
+5
+
+Nada se
+cumple
+
+Análisis de
+resultados
+
+A.) Los siguientes criterios se cumplen
+(demostrado en Notebook):
+1) Se compararon las métricas con las del
+baseline.
+2) Se detectaron fuentes de error o áreas de
+mejora.
+3) Se propuso una estrategia de mejora.
+B.) Se ha formalizado esta etapa en papel
+(documento)
+C.) Se hizo una presentación de esta parte
+
+Cuando mucho un Cuando mucho
+Ningún criterio de Ningún criterio de
+criterio de A.) no dos criterios de A.)
+A.) se cumple,
+A.) se cumple,
+se cumple, pero no se cumple, pero
+pero B.) y C.) se
+pero B.) o C.) se
+B.) y C.) se
+B.) y C.) se
+cumplen,
+cumple,
+cumplen,
+cumplen,
+o bien
+o bien
+o bien
+o bien
+No se cumplen B.) No se cumplen B.) No se cumplen B.)
+Al menos un
+o C.) pero todos
+ni C.) pero todos
+ni C.) pero al
+criterio de A) o B.)
+los criterios de A.) los criterios de A.) menos un criterio
+o C.) se cumple
+sí se cumplen
+sí se cumplen
+de A.) sí se cumple
+
+ETAPA 3: RESOLUCIÓN DEL PROB. (2a APROXIMACIÓN): 30%
+CRITERIOS
+
+10
+
+Fecha de entrega: Martes 4 de noviembre
+9
+
+8
+
+7
+
+6
+
+A.) Los siguientes criterios se cumplen
+Cuando mucho un Cuando mucho
+(demostrado en Notebook):
+Ningún criterio de Ningún criterio de
+criterio de A.) no dos criterios de A.)
+1) Se entrenó al modelo alternativo al baseline
+A.) se cumple,
+A.) se cumple,
+se cumple, pero no se cumple, pero
+con las mejoras.
+pero B.) y C.) se
+pero B.) o C.) se
+B.) y C.) se
+B.) y C.) se
+2) Se probó el modelo alternativo con las
+cumplen,
+cumple,
+cumplen,
+cumplen,
+o bien
+o bien
+Primer ensayo de mejoras (Test).
+o bien
+o bien
+3) Se calcularon las métricas de evaluación.
+
+resolución
+
+B.) Se ha formalizado esta etapa en papel
+(documento)
+C.) Se hizo una presentación de esta parte
+
+Análisis de
+resultados
+
+A.) Los siguientes criterios se cumplen
+(demostrado en Notebook):
+1) Se compararon las métricas con las del
+baseline y las de la propuesta original.
+2) Se detectaron fuentes de error o áreas de
+mejora.
+3) Se propuso una estrategia de mejora.
+
+B.) Se ha formalizado esta etapa en papel
+(documento)
+
+C.) Se hizo una presentación de esta parte.
+
+Nada se
+cumple
+
+5
+
+Nada se
+cumple
+
+No se cumplen B.) No se cumplen B.) No se cumplen B.)
+Al menos un
+o C.) pero todos
+ni C.) pero todos
+ni C.) pero al
+criterio de A) o B.)
+los criterios de A.) los criterios de A.) menos un criterio
+o C.) se cumple
+sí se cumplen
+sí se cumplen
+de A.) sí se cumple
+
+Cuando mucho un Cuando mucho
+Ningún criterio de Ningún criterio de
+criterio de A.) no dos criterios de A.)
+A.) se cumple,
+A.) se cumple,
+se cumple, pero no se cumple, pero
+pero B.) y C.) se
+pero B.) o C.) se
+B.) y C.) se
+B.) y C.) se
+cumplen,
+cumple,
+cumplen,
+cumplen,
+o bien
+o bien
+o bien
+o bien
+
+No se cumplen B.) No se cumplen B.) No se cumplen B.)
+Al menos un
+o C.) pero todos
+ni C.) pero todos
+ni C.) pero al
+criterio de A) o B.)
+los criterios de A.) los criterios de A.) menos un criterio
+o C.) se cumple
+sí se cumplen
+sí se cumplen
+de A.) sí se cumple
+
+Nada se
+cumple
+
+
