@@ -19,5 +19,3 @@ Cómo subir:
 git remote add origin https://github.com/<tu-usuario>/Sistema-de-recomendacion.git
 git push -u origin main
 ```
-
-Si quieres, puedo generar también un `requirements.txt` y un `LICENSE`.
